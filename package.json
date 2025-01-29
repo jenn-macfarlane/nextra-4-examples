@@ -1,8 +1,8 @@
 {
   "private": true,
   "workspaces": [
-    "nextra-4-options/content-dir-convention",
-    "nextra-4-options/page-file-convention"
+    "convention-examples/content-dir-convention",
+    "convention-examples/page-file-convention"
   ],
   "scripts": {
     "dev": "npm run dev --workspaces",
