@@ -1,7 +1,4 @@
 export default {
-  // index: {
-  //   display: 'hidden',
-  // },
   'top-nav-1': {
     type: 'page',
     title: 'Top Nav 1',
