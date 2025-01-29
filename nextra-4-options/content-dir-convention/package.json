@@ -1,0 +1,11 @@
+{
+  "name": "content-dir-convention",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "next --turbopack -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {}
+}

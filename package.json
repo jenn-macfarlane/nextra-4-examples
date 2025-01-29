@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "workspaces": [
+    "nextra-4-options/content-dir-convention",
+    "nextra-4-options/page-file-convention"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces",
+    "build": "npm run build --workspaces",
+    "start": "npm run start --workspaces"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "nextra": "^4.2.0",
+    "nextra-theme-docs": "^4.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
