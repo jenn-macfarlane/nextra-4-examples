@@ -1,6 +1,6 @@
 # nextra-4-examples
 
-# Install dependencies
+## Install dependencies
 
 From the root directory, run `npm install`
 
